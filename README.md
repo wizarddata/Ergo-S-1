@@ -1,6 +1,6 @@
 # Ergo S-1 Wireless Keyboard
 
-![Image_of_Rev0](https://github.com/wizarddata/Ergo-S-1/Images/render.jpg)
+![Image_of_Rev0](https://github.com/wizarddata/Ergo-S-1/tree/main/Images/render.jpg)
 
 https://wizardkeyboards.com/ergo-s-1/
 
