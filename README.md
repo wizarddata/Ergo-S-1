@@ -13,8 +13,8 @@ _More Pictures_: https://wizardkeyboards.com/gallery/
 This is the first step in acheiving that goal. The cases are designed to give you easy access to the switches for hand wiring. There's a parts list below for everything else that you'll need.
 
 **What Switches / Keycaps Can I Use?**  
->This layout was designed to be compatible with standard cherry/oem 104 key sets. DCS is also compatible, but DSA or SA will not work on all keys due to the curvature.  
-This case is compabilbe with cherry mx and gateron switches. The switches are held in plase by the recess in the sides, so alternate designs like kailh or otemu will not fit.
+>This layout was designed to be compatible with standard **cherry/oem 104 key** sets. DCS is also compatible, but DSA or SA will not work on all keys due to the keywell shape.  
+This case is compabilbe with **cherry mx and gateron switches**. The switches are held in plase by the recess in the sides, so alternate designs like kailh or otemu will not fit.
 
 **Can You Make Me One?**  
 >While this case is open source and free for anyone to build on their own, it can be challenging to get the print just right. So I have some available in my Etsy store.
