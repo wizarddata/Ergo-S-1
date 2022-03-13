@@ -2,7 +2,7 @@
 
 ![Image_of_Rev0](https://github.com/wizarddata/Ergo-S-1/blob/main/Images/render.jpg)
 
-https://wizardkeyboards.com/gallery/
+_More Pictures_: https://wizardkeyboards.com/gallery/
 
 
 **What Is it?**  
