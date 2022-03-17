@@ -17,7 +17,8 @@ This is the first step in acheiving that goal. The cases are designed to give yo
 This case is compabilbe with **cherry mx and gateron switches**. The switches are held in plase by the recess in the sides, so alternate designs like kailh or otemu will not fit.
 
 **Can You Make Me One?**  
->While this case is open source and free for anyone to build on their own, it can be challenging to get the print just right. So I have some available in my Etsy store.
+>While this case is open source and free for anyone to build on their own, it can be challenging to get the print just right. So I have some available in my Etsy store.  
+>https://www.etsy.com/shop/WizardKeyboards
 
 **Do You Make A Complete Kit?**  
 >Not yet, but I'm working on it! At this time you need to source switches, keycaps, and electronics from other vendors. I've included links with the recommended hardware list to make this as easy as possible.  
