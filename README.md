@@ -28,27 +28,22 @@ If an (even) easier to assemble kit is something you want, let me know! I'm work
 >The best thing you can do to help me is to share my work! The more popular this design becomes, the easier it will be for me to get to make kits or even assembled keyboards.
 
 **Hardware**  
->M4 Heat Set Inserts
- - https://www.mcmaster.com/94180A351
- - Cheaper M4 inserts bought elsewhere will likely work fine.
- 
->M4 Bolts
- - https://www.mcmaster.com/92010A222/
- - Cheaper equivalents will likely work fine. Pay attention to head geometry.
- 
->Adhesive Backed Silicone Feet
- - https://www.mcmaster.com/95495K57/
- 
->ZMK Compatible Wireless Module
- - https://zmk.dev/docs/hardware/
- - There is plenty of space inside this keyboard for whichever ZMK compatible wireless module you prefer.
- 
->Panel Mount USB-C Connector
- - https://www.adafruit.com/product/4218
- 
->Panel Mount Reset Switch
- - https://www.adafruit.com/product/1505
- 
->Battery
- - Make sure that whatever battery chemestry you buy is compatible with the charging system present on your wireless module.
- - With this case, you can go just about as big as you want.
+
+ **M4 Heat Set Inserts x 12** --> https://www.mcmaster.com/94180A351  
+ *Cheaper M4 inserts bought elsewhere will likely work fine.
+
+ **M4 Bolts x 12** --> https://www.mcmaster.com/92010A222/  
+ *Cheaper equivalents will likely work fine. Pay attention to head geometry.
+
+ **Adhesive Backed Silicone Feet x 10** --> https://www.mcmaster.com/95495K57/
+
+ **ZMK Compatible Wireless Module x 2** --> https://zmk.dev/docs/hardware/  
+ *There is plenty of space inside this keyboard for whichever ZMK compatible wireless module you prefer.
+
+ **Panel Mount USB-C Connector x 2** --> https://www.adafruit.com/product/4218
+
+ **Panel Mount Reset Switch x 2** --> https://www.adafruit.com/product/1505
+
+ **Battery x 2**  
+ *Make sure that whatever battery chemestry you buy is compatible with the charging system present on your wireless module.  
+ *With this case, you can go just about as big as you want.
