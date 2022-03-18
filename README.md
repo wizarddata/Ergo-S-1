@@ -4,6 +4,7 @@
 
 _More Pictures_: https://wizardkeyboards.com/gallery/
 
+**_WIRING GUIDE COMING SOON_**
 
 **What Is it?**  
 >The Ergo S-1 is a fully wireless, split ergonomic keyboard that is compatible with cherry/gateron switches and cherry/oem/dcs keycaps. It runs on the fantastic ZMK firmware.
