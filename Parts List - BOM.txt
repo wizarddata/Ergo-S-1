@@ -4,7 +4,7 @@ Cherry/Gateron Switches x 68
 *Kailh switches are NOT compatible with the retention mechanism used in this design.
 
 Cherry/OEM/DCS 104-Key Keycap Set
-*The layout has been designed to be fully populated by any full 104-key keycap set. No special kits needed.
+*The layout has been designed to be fully populated by any Cherry/OEM/DCS profile full 104-key keycap set. No special kits needed.
 
 M4 Heat Set Inserts x 12 
 --> https://www.mcmaster.com/94180A351  
