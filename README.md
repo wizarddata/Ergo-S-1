@@ -4,7 +4,7 @@
 
 _More Pictures_: https://wizardkeyboards.com/gallery/
 
-_Firmware_: https://github.com/wizarddata/zmk/tree/Ergo_S-1_OSE
+_Firmware_: https://github.com/wizarddata/zmk/tree/Ergo_S-1_OE
 
 **What Is it?**  
 >The Ergo S-1 is a fully wireless, split ergonomic keyboard that is compatible with cherry/gateron switches and cherry/oem/dcs keycaps. It runs on the fantastic ZMK firmware.
