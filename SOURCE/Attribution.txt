@@ -1,0 +1,6 @@
+Switch models were created by Kevin Yu and downloaded from grabcad: https://grabcad.com/library/cherry-mx-switches-mx-1
+
+Most keycap models were created by ConstantinoSchillebeeckx: https://github.com/ConstantinoSchillebeeckx/cherry-mx-keycaps
+
+Innermost thumb keycap was generated using files created by DesignersMind: https://www.thingiverse.com/thing:4393823
+

@@ -27,3 +27,6 @@ If an (even) easier to assemble kit is something you want, let me know! I'm work
 
 **This Is Great! How Can I Help?**  
 >The best thing you can do to help me is to share my work! The more popular this design becomes, the easier it will be for me to get to make kits or even assembled keyboards.
+
+**Which license is this project released under?**
+The hardware is released under CERN OHL-S v2. Full license text is available in the SOURCE folder.
