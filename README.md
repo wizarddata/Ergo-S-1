@@ -30,3 +30,4 @@ If an (even) easier to assemble kit is something you want, let me know! I'm work
 
 **Which license is this project released under?**
 >The hardware and associated documentation is released under CERN OHL-S v2. Full license text is available in the SOURCE folder.
+>OSHWA UID US002119
