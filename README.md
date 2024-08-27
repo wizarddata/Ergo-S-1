@@ -8,6 +8,8 @@ _Firmware_: https://github.com/wizarddata/zmk/tree/Ergo_S-1_OE
 
 _Assembly Instructions & BOM_: https://github.com/wizarddata/Ergo-S-1/blob/main/Ergo%20S-1%20OE%20Assembly%20Instructions.pdf
 
+_Customize the keyboard layout_: https://github.com/arcanemachine/zmk-ergo-s-1
+
 **What Is it?**  
 >The Ergo S-1 is a fully wireless, split ergonomic keyboard that is compatible with cherry/gateron switches and cherry/oem/dcs keycaps. It runs on the fantastic ZMK firmware.
 
@@ -33,3 +35,6 @@ If an (even) easier to assemble kit is something you want, let me know! I'm work
 **Which license is this project released under?**
 >The hardware and associated documentation is released under CERN OHL-S v2. Full license text is available in the SOURCE folder.  
 >OSHWA UID US002119
+
+**How can I build my own custom firmware with a customized keymap?**
+>Follow the instructions at this repo: https://github.com/arcanemachine/zmk-ergo-s-1
