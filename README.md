@@ -2,6 +2,8 @@
 
 ![Image_of_Rev0](https://github.com/wizarddata/Ergo-S-1/blob/main/Images/overhead_angle.jpg)
 
+_Wizard Keyboards Discord_: https://discord.gg/En7Kx4a6tZ
+
 _More Pictures_: https://wizardkeyboards.com/gallery/
 
 _Firmware_: https://github.com/wizarddata/zmk/tree/Ergo_S-1_OE
