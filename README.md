@@ -16,8 +16,7 @@ _Download the Fusion 360 file_: https://github.com/wizarddata/Ergo-S-1/blob/main
 
 _Other useful stuff (Purchase list, Printable tenting stand, etc.)_: https://github.com/arcanemachine/Ergo-S-1-Extras
 
-**Similar projects and forks**
-  - [Ergo-V-1](https://github.com/VPavliashvili/Ergo-V-1) A wired QMK based version of this keyboard with some modifications
+_Similar projects and forks_: [Ergo-V-1](https://github.com/VPavliashvili/Ergo-V-1) A wired QMK based version of this keyboard with some modifications
 
 **What Is it?**  
 >The Ergo S-1 is a fully wireless, split ergonomic keyboard that is compatible with cherry/gateron switches and cherry/oem/dcs keycaps. It runs on the fantastic ZMK firmware.
