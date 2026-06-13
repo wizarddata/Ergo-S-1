@@ -45,5 +45,5 @@ If an (even) easier to assemble kit is something you want, let me know! I'm work
 >OSHWA UID US002119
 
 **How can I build my own custom firmware with a customized keymap?**
->Follow the instructions at this repo: https://github.com/arcanemachine/zmk-ergo-s-1
+>Follow the instructions at this repo: https://github.com/arcanemachine/zmk-ergo-s-1  
 >OR use https://github.com/wizarddata/ergo-s1-zmk-webbuilder
